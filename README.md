@@ -24,9 +24,9 @@
 ### :man_technologist: About Me :
 
 - 👋 Hi, I’m @aadityajha1
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning advanced AWS services and software design patterns.
-- 💞️ I’m looking to collaborate on Full Stack Projects.
+- 🔭 I work at **Niural**, building AI-powered backend systems for payroll and HR automation
+- 🤖 Exploring AI/LLM integrations using the OpenAI, Anthropic SDK and agentic workflows
+- 🌱 I’m currently learning Linear Algebra, core ML algorithms and software design patterns.
 - 📫 How to reach me Email: connectme.aaditya@gmail.com
 
 ---
